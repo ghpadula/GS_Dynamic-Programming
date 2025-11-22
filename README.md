@@ -1,4 +1,8 @@
 # ProjetoCloud2050 - Global Solution: Otimização de Data Centers Sustentáveis
+## Integrantes
+- Gabriel Henrique Padula- RM554907
+- Gustavo Pierri  - RM558928
+- Rodrigo Nakata – RM556417
 
 ## Visão Geral do Projeto
 
